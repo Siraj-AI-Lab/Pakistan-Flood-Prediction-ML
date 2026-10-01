@@ -1,0 +1,6 @@
+event_id,year,event_name,start_date,end_date,trigger,rainfall_above_avg_pct,global_context,un_appeal_usd_M,international_aid_received_usd_M,disaster_declaration
+PKF2010,2010,2010 Super Flood,2010-07-22,2010-09-30,Record monsoon rains; KP/Punjab rivers exceeded banks,250,Worst flood since 1929; exceeded 2004 tsunami+2005 earthquake+2010 Haiti combined affected population,460,1900,National Emergency
+PKF2011,2011,2011 Sindh Floods,2011-08-01,2011-11-30,High-intensity rainfall on eastern Indus; separate from 2010 path,180,Second consecutive severe flood year; Sindh bore 60% damage,357,450,National Emergency
+PKF2012,2012,2012 Monsoon Floods,2012-07-01,2012-09-30,Monsoon rains; KP and southern Punjab affected,140,Third consecutive flood year,150,180,Provincial Emergency
+PKF2022,2022,2022 Pakistan Mega Flood,2022-06-14,2022-11-18,8 monsoon cycles; glacial melt; back-to-back heatwaves; Sindh 784% above avg rain,340,Surpassed 2010; 1/3 of Pakistan submerged; climate attribution confirmed by WWA,816,1200,National Emergency
+PKF2025,2025,2025 Punjab-KP Floods,2025-06-26,2025-09-30,Record monsoon; Indian dam releases; glacial melt; KP flash floods,200,Worst Punjab flooding in 40 years; IWT suspension preceded Indian dam releases,500,350,National Emergency
